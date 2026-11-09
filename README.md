@@ -34,11 +34,12 @@ Spoiler Tech - WhatsApp bot framework | Leaks | Tools
 |--------|--------|
 | **Pair Code 1** | <a href=" https://spoiler.pairsite.space /"><img src="https://img.shields.io/badge/Pair%20Code%20%231-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 
-![GitHub stars](https://img.shields.io/github/stars/spoiler-254/LORD TECH XD?style=for-the-badge&color=darkgreen)
-![GitHub forks](https://img.shields.io/github/forks/spoiler-254/LORD TECH XD?style=for-the-badge&color=darkgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/spoiler-254/LORD TECH XD?style=for-the-badge&color=darkgreen)
+![GitHub stars](https://img.shields.io/github/stars/spoiler-254/SMD?style=for-the-badge&color=darkgreen)
+![GitHub forks](https://img.shields.io/github/forks/spoiler-254/SMD?style=for-the-badge&color=darkgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/spoiler-254/SMD?style=for-the-badge&color=darkgreen)
 
 https://spoiler.pairsite.space
 
 </div>
 Powered by MR SMOKE
+
