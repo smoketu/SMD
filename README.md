@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/q3D8PGcz/131c967667ef.jpg" width="1000" style="border-radius: 50%; border: 3px solid red; box-shadow: 0 0 20px red;" alt="SPOILER TECH" />
+  <img src="https://github.com/user-attachments/assets/9bfe2e0b-634c-4938-a624-cc34afee7798" width="1000" style="border-radius: 50%; border: 3px solid red; box-shadow: 0 0 20px red;" alt="SPOILER TECH" />
 </p>
 
 <h1 align="center">SMD BOT </h1>
@@ -38,7 +38,7 @@ Spoiler Tech - WhatsApp bot framework | Leaks | Tools
 ![GitHub forks](https://img.shields.io/github/forks/smoketu/SMD?style=for-the-badge&color=darkgreen)
 ![GitHub repo size](https://img.shields.io/github/repo-size/smoketu/SMD?style=for-the-badge&color=darkgreen)
 
-https://spoiler.pairsite.space
+
 
 </div>
 Powered by MR SMOKE
