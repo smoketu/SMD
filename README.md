@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">SMD BOT </h1>
-<h3 align="center">supreme lord</h3>
+<h3 align="center">MR SMOKE</h3>
 <div align="center">
   
 <div align="center">
@@ -20,7 +20,7 @@
 ### ⚡ About
 Spoiler Tech - WhatsApp bot framework | Leaks | Tools
 
-> Owner: supreme lord
+> Owner: MR SMOKE
 
 **DOWNLOAD ZIP**
 <br>
